@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\bin\Debug\ChainProject.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\bin\Debug\ChainProject.exe
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\bin\Debug\ChainProject.pdb
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\obj\Debug\ChainProject.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\obj\Debug\ChainProject.exe
+\\mac\home\documents\visual studio 2015\Projects\ChainProject\ChainProject\obj\Debug\ChainProject.pdb
